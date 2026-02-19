@@ -48,13 +48,13 @@
 		"polka": "1.0.0-next.25",
 		"sirv": "^2.0.4",
 		"typescript": "^5.3.3",
-		"vitest": "^2.0.1"
+		"vitest": "^2.1.9"
 	},
 	"dependencies": {
 		"@rollup/plugin-commonjs": "^26.0.1",
 		"@rollup/plugin-json": "^6.1.0",
 		"@rollup/plugin-node-resolve": "^15.2.3",
-		"rollup": "^4.9.5"
+		"rollup": "^4.22.4"
 	},
 	"peerDependencies": {
 		"@sveltejs/kit": "^2.4.0"
