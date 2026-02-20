@@ -29,12 +29,12 @@
 		"prettier": "^3.1.1",
 		"prettier-plugin-svelte": "^3.1.2",
 		"prism-svelte": "^0.5.0",
-		"prismjs": "^1.29.0",
+		"prismjs": "^1.30.0",
 		"shiki-twoslash": "^3.1.2",
-		"svelte": "^4.2.10",
+		"svelte": "^5.51.5",
 		"typescript": "5.0.4",
-		"vite": "^5.3.2",
-		"vitest": "^2.0.1"
+		"vite": "^5.4.21",
+		"vitest": "^2.1.9"
 	},
 	"type": "module",
 	"dependencies": {
